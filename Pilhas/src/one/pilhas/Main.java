@@ -1,10 +1,10 @@
 package one.pilhas;
 
 public class Main {
+
   public static void main(String[] args) {
 
     Pilha minhaPilha = new Pilha();
-
     minhaPilha.push(1);
     minhaPilha.push(2);
     minhaPilha.push(3);

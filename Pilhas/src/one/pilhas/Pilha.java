@@ -10,7 +10,7 @@ public class Pilha {
     return refNoEntradaPilha;
   }
 
-  public void push(Integer object){
+  public void push(int object){
     No novoNo =  new No(object);
 
     No refAuxiliar = refNoEntradaPilha;
